@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletStorebelt</name>
+    </assembly>
+    <members>
+        <member name="M:BilletStorebelt.Bil.Pris">
+            <summary>
+            Angiver prisen på en billet for en bil i hverdagen og rabat med BroBizz og rabat i weekenden.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletStorebelt.Bil.Køretøj">
+            <summary>
+            Angiver typen af køretøjet der bliver anvendt(Bil).
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletStorebelt.Køretøjer.Pris">
+            <summary>
+            Angiver prisen på køretøjet der bliver anvendt. 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletStorebelt.Køretøjer.Køretøj">
+            <summary>
+            Angiver hvilken type køretøj der bliver anvendt.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletStorebelt.Køretøjer.NummerpladeLænge">
+            <summary>
+            Angiver at nummerpladen for køretøjet skal have 7 tegn eller færre.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletStorebelt.MC.Pris">
+            <summary>
+            Angiver prisen på en billet for en motorcykel i hverdagen, og rabat med Brobizz og rabat i weekenden.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletStorebelt.MC.Køretøj">
+            <summary>
+            Angiver typen af kørtøjet der bliver anvendt(MC).
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
